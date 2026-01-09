@@ -40,9 +40,3 @@ The training script generates comprehensive performance metrics and a history pl
 
 ---
 
-## 🚀 Getting Started
-
-### 1. Prerequisites
-Install the required dependencies:
-```bash
-pip install -r requirements.txt
